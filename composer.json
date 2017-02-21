@@ -1,0 +1,12 @@
+{
+  "name": "chmiello/Messanger-chatbot",
+  "description": "chatbot in PHP with Heroku",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bartlomiej Chmielewski",
+      "email": "bartlomiej.chmielewski@septen.pl"
+    }
+  ]
+}

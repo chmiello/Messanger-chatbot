@@ -1,2 +1,4 @@
 .idea/
 composer.phar
+app/settings.php
+/app.log
